@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[377],{9767:e=>{e.exports=JSON.parse('{"label":"midival","permalink":"/blog/tags/midival","allTagsPath":"/blog/tags","count":5}')}}]);

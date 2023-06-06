@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4860],{7079:e=>{e.exports=JSON.parse('{"label":"midi clock","permalink":"/blog/tags/midi-clock","allTagsPath":"/blog/tags","count":2}')}}]);
